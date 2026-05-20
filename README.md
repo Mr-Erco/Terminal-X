@@ -61,6 +61,5 @@ The official Terminal X website is:
 This is the central hub for:
 - Documentation  
 - Updates  
-- Cloud features (coming soon)  
 - Support  
 - Developer tools  
