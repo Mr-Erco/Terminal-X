@@ -14,7 +14,6 @@ The official Terminal X website is:
 
 👉 **https://TerminalX.com.au**
 
-Terminal X is currently under active development and distributed through Google Play Closed Testing.
 
 ---
 
